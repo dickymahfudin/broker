@@ -1,0 +1,11 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dickymahfudin",
+  "license": "MIT",
+  "dependencies": {
+    "aedes": "^0.46.1",
+    "mqtt": "^4.2.8"
+  }
+}
